@@ -29,14 +29,6 @@
 | [**ThermesChatBot**](https://github.com/sudo-giusppe/ThermesChatbot) | Platform with an AI agent that configures the context window for developers. First place at the Accenture Hackathon 2024. |
 | [**GiuseppeBlog**](https://github.com/sudo-giusppe/GiuseppeBlog) | Personal blog built with Astro → [giuseppeblog.onrender.com](https://giuseppeblog.onrender.com/) |
 
-### Experience
-
-**IBM Z Ambassador** · IBM · *2026 – Present*
-Participating in IBM's ambassador program around the IBM Z platform. Earned the **IBM Z Concepts** (z/OS, JCL, z/OSMF) and **IBM Z Advanced** (COBOL, DB2, VSAM, REXX) badges.
-
-**Lead Backend Developer & Internal Coordinator** · Open Source UC – RamosUC · *2024 – 2025*
-Defined the technology stack and software architecture of RamosUC, and built its backend API.
-
 ### Certifications
 
 - **IBM watsonx: Technical Essentials** — IBM (watsonx.ai, watsonx.data, watsonx.governance), 2026
