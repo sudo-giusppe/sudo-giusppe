@@ -13,13 +13,6 @@
 
 ---
 
-### About
-
-- B.Sc. in Computer Science Engineering at **Pontificia Universidad Católica de Chile** (expected 2028).
-- **IBM Z Ambassador**, working with z/OS, COBOL, JCL, REXX, DB2 and VSAM.
-- Backend developer interested in software architecture, API design and low-level systems work in Rust, C and Linux.
-- Former **Lead Backend Developer & Internal Coordinator** at [Open Source UC – RamosUC](https://github.com/open-source-uc), an open-source platform that helps UC students pick their courses.
-
 ### Currently working on
 
 - **vHive on s390x / LinuxONE** — porting vHive-style microVM snapshotting to s390x, where Firecracker is not available.
