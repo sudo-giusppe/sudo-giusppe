@@ -27,7 +27,7 @@
 | [**serverless-s390x**](https://github.com/sudo-giusppe/serverless-s390x) | Cold starts of serverless functions on s390x (IBM Z / LinuxONE) vs x86-64 with Knative and vSwarm. |
 | **NTN Components** | Backend of a peer-to-peer hardware component marketplace: purchase requests, order tracking, messaging, notifications and reviews. Infrastructure and deployment on Render, test coverage above 85%. |
 | [**ThermesChatBot**](https://github.com/sudo-giusppe/ThermesChatbot) | Platform with an AI agent that configures the context window for developers. First place at the Accenture Hackathon 2024. |
-| [**GiuseppeBlog**](https://github.com/sudo-giusppe/GiuseppeBlog) | Personal blog built with Astro → [giuseppeblog.onrender.com](https://giuseppeblog.onrender.com/) |
+| [**GiuseppeBlog**](https://github.com/sudo-giusppe/GiuseppeBlog) | Personal blog built with Astro → [sudo-giusppe.github.io](https://sudo-giusppe.github.io/) |
 
 ### Certifications
 
