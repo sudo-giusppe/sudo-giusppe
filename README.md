@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-pedro-barraza-montenegro-a1a943302"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:jpbm432@gmail.com"><img src="https://img.shields.io/badge/jpbm432@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="sudo-giusppe.github.io"><img src="https://img.shields.io/badge/Blog-1f6feb?style=flat-square&logo=astro&logoColor=white" alt="Blog"></a>
+  <a href="https://sudo-giusppe.github.io"><img src="https://img.shields.io/badge/Blog-1f6feb?style=flat-square&logo=astro&logoColor=white" alt="Blog"></a>
 </p>
 
 ---
